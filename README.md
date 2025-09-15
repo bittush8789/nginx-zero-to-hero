@@ -32,6 +32,8 @@ Each section comes with:
 
 You can go through each section sequentially or jump to the one you need.
 
+## Bittu Sharma ##
+
 ---
 
 ## 🙌 Contribute or Ask
