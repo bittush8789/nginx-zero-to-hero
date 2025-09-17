@@ -1,6 +1,6 @@
 # 🚀 NGINX Zero to Hero
 
-**Beginner-Friendly Guide for DevOps and Cloud Engineers**
+*** Beginner-Friendly Guide for DevOps and Cloud Engineers**
 
 ---
 
