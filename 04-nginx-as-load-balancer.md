@@ -8,7 +8,7 @@ Use NGINX to distribute traffic across multiple backend servers — improving av
 
 ## 🧠 What is Load Balancing?
 
-**Load balancing** is the process of distributing incoming network traffic across multiple backend servers.
+**Load balancing** is the process of distributing incoming network traffic across multiple backend servers..
 
 Benefits:
 - Prevents server overload
